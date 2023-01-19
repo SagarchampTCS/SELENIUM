@@ -15,7 +15,7 @@ public class A {
 		
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\kadus\\Downloads\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
-        driver.get("https://www.facebook.com/");
+        driver.get("https://www.flipkart.com/");
         //typecast takesscreenshot interface
         TakesScreenshot ts = (TakesScreenshot) driver;
         //take the screenshot using getscreenshotas method
