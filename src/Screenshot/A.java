@@ -24,7 +24,7 @@ public class A {
       File dest = new File("C:\\Users\\kadus\\OneDrive\\Desktop\\Facebook.jpg");
       // we need convert screenshot from src to destination
       Files.copy(src, dest);
-		System.out.println("Comments from Github By Team Leader")
+		System.out.println("Comments from Github By Team Leader");
     
 
 }
